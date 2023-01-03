@@ -17,12 +17,12 @@
 
 - 📫 Encuentráme en **Discord: Dresko#0471**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/drgatoxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drgatoxd" height="30" width="40" /></a>
-<a href="https://instagram.com/drgato_785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drgato_785" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@drgato785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@drgato785" height="30" width="40" /></a>
-<a href="https://discord.gg/KRjKNWabt4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KRjKNWabt4" height="30" width="40" /></a>
+<a href="https://twitter.com/im_dresko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_dresko" height="30" width="40" /></a>
+<a href="https://instagram.com/im_dresko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_dresko" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@im-dresko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="im-dresko" height="30" width="40" /></a>
+<a href="https://discord.gg/EvyKQYaMER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EvyKQYaMER" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
